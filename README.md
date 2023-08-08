@@ -45,9 +45,19 @@ this should install a Sphinx environment and build the site, putting the output 
 
 # Profile Website
 
-Welcome to my profile webiste, 
+Welcome to my profile webiste, everybody!
 <!-- enter your target audience after the comma above -->
 
 Since you're here, you might be: 
+- an employer
+- a friend
+- strangers with similar interests
 <!-- make a bulleted list of 3 fictional visitors to your site. Include a few detials about them that could impact how you design for them. For each visitor, assign a task or goal they have for visiting your profile website -->
 
+## design
+
+I will be using a bold image and large font to draw the viewers to the center of my website! My buttons are gonna look similar because they'll be across the top of the screen.
+
+## accessibility 
+
+I'll have a text to speech feature so people that can't see the words on the screen, can still enjoy the content of my website. And I'll have a colorblind friendly color scheme so the images on my website are clear. I will use webAIM's WAVE tool to make sure my website is accessible to as many people as possible and make accomodations accordingly. 
