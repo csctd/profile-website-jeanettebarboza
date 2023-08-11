@@ -1,2 +1,3 @@
 # pictures :)
-	![flower](_static/img/IMG_0501.jpg)
+
+![flower](_static/img/IMG_0501.jpg)
